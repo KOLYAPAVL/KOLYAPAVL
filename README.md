@@ -81,6 +81,7 @@ It would not be superfluous to mention my skills as a developer
             <small>August 2023 — Until now </small>
         </div>
     </div>
+    <br/>
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;">
             <b>Background</b>
@@ -137,6 +138,7 @@ It would not be superfluous to mention my skills as a developer
             <small>November 2023 — August 2023</small>
         </div>
     </div>
+    <br/>
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;">
             <p>
@@ -172,6 +174,7 @@ It would not be superfluous to mention my skills as a developer
             <small>May 2020 — August 2021</small>
         </div>
     </div>
+    <br/>
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;">
             <p>
@@ -215,6 +218,7 @@ It would not be superfluous to mention my skills as a developer
             <small>August 2023 - Until now</small>
         </div>
     </div>
+    <br/>
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;gap: 8px;">
             <b style="font-size: 15px;">Engineering School</b>
