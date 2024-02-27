@@ -84,7 +84,7 @@ It would not be superfluous to mention my skills as a developer
     <br/>
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;">
-            <b>Background</b>
+            <b>Background</b> <br/>
             At AGORA, I moved to the Team Lead position.
         </div>
         <div style="display: flex;flex-direction: column;">
@@ -109,22 +109,22 @@ It would not be superfluous to mention my skills as a developer
             </ul>
         </div>
         <div style="display: flex;flex-direction: column;">
-            <b>It is impossible to list all the responsibilities of Tim lida. But for myself, I see 3 main goals that I try to achieve in the process of work:</b>
+            <b>It is impossible to list all the responsibilities of Tim lida. But for myself, I see 3 main goals that I try to achieve in the process of work:</b><br/>
             1. Competent organization of the team's work to achieve maximum product quality on time.</br>
             2. The development of each team member as a professional in their subject area.</br>
             3. High-quality work with the customer on the technical part of the project.
         </div>
         <div style="display: flex;flex-direction: column;">
-            <b>During the work:</b>
+            <b>During the work:</b> </br>
             1. I managed to implement 2 projects from the very start to the MVP stage.<br/>
             2. Interviewed more than 20 developers. <br/>
             3. Helped the team members to develop their skills and thereby increase the grade in the company.<br/>
             4. Added a large number of innovations to the work of the team, which allowed: to avoid many mistakes, speed up the development process, improve and simplify teamwork.<br/>
             5. Designed the architecture of the application using SOLID principles and rules for building a clean architecture by Robert Martins.<br/>
         </div>
-        <div style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
+        <small style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
             Development Management • Agile • Application Architecture Design • Django • Vue.js • Development of technical specifications • Viewing the code • Conducting interviews • Employee development • Clean Architecture
-        </div>
+        </small>
     </div>
 </div>
 
@@ -143,6 +143,7 @@ It would not be superfluous to mention my skills as a developer
         <div style="display: flex;flex-direction: column;">
             <p>
             Developed and maintained complex B2B and B2C systems. Participated in the development of a ready-made B2B-B2C platform module for organizing sales purchases between a supplier and a buyer.</p>
+            <br/>
             <b>During the work I had a chance:</b>
             <ul>
                 <li>Work in a friendly team and learn new things</li>
@@ -158,9 +159,9 @@ It would not be superfluous to mention my skills as a developer
                 <li>Working with the Microsoft Active Directory system</li>
             </ul>
         </div>
-        <div style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
+        <small style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
             Python • Django • Redis • PostgreSQL • SCSS • Clean Architecture • Application Architecture Design • Development of integration solutions • Highly loaded systems • Vue.js
-        </div>
+        </small>
     </div>
 </div>
 
@@ -178,7 +179,7 @@ It would not be superfluous to mention my skills as a developer
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;">
             <p>
-            I developed and supported gambling projects.</p>
+            I developed and supported gambling projects.</p><br/>
             <b>My responsibilities included:</b>
             <ul>
                 <li>Organization of the workflow</li>
@@ -187,9 +188,10 @@ It would not be superfluous to mention my skills as a developer
                 <li>Configuring the server configuration (NGINX, Supervisor)</li>
             </ul>
         </div>
-        <div style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
+        <br/>
+        <small style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
             PHP • Django • JQuery • Vue.js • SCSS • Nginx • Redis • Highly loaded systems • Development of integration solutions • Development of integration solution
-        </div>
+        </small>
     </div>
 </div>
 
