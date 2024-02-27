@@ -87,6 +87,7 @@ It would not be superfluous to mention my skills as a developer
             <b>Background</b> <br/>
             At AGORA, I moved to the Team Lead position.
         </div>
+        <br/>
         <div style="display: flex;flex-direction: column;">
             <b>Responsibilities</b>
             <ul>
@@ -114,6 +115,7 @@ It would not be superfluous to mention my skills as a developer
             2. The development of each team member as a professional in their subject area.</br>
             3. High-quality work with the customer on the technical part of the project.
         </div>
+        <br/>
         <div style="display: flex;flex-direction: column;">
             <b>During the work:</b> </br>
             1. I managed to implement 2 projects from the very start to the MVP stage.<br/>
@@ -122,6 +124,7 @@ It would not be superfluous to mention my skills as a developer
             4. Added a large number of innovations to the work of the team, which allowed: to avoid many mistakes, speed up the development process, improve and simplify teamwork.<br/>
             5. Designed the architecture of the application using SOLID principles and rules for building a clean architecture by Robert Martins.<br/>
         </div>
+        <br/>
         <small style="display: flex;color: rgba(255, 255, 255, 0.5);font-size: 12px;">
             Development Management • Agile • Application Architecture Design • Django • Vue.js • Development of technical specifications • Viewing the code • Conducting interviews • Employee development • Clean Architecture
         </small>
@@ -224,6 +227,7 @@ It would not be superfluous to mention my skills as a developer
     <div style="width: 100%;display: flex;flex-direction: column;gap: 16px;margin-top: 16px;border-left: 1px solid rgba(255, 255, 255, 0.5);padding-left: 12px;font-size: 13px;">
         <div style="display: flex;flex-direction: column;gap: 8px;">
             <b style="font-size: 15px;">Engineering School</b>
+            <br/>
             <p style="margin: 0px;"><b>Field of study/specialty:</b> 02.03.03 Mathematical support and administration of information systems</p>
             <p style="margin: 0px;"><b>Profile:</b> Programming technology</p>
         </div>
