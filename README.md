@@ -127,6 +127,7 @@ It would not be superfluous to mention my skills as a developer
     </div>
 </div>
 
+<br/>
 <div style="margin-bottom: 16px;">
     <div style="display: flex;align-items: center;">
         <img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/656/1/logo/medium_dacfad0ca86ac0ec30befe55e3430fde.png" style="width: 60px;height: 60px;">
@@ -161,6 +162,7 @@ It would not be superfluous to mention my skills as a developer
     </div>
 </div>
 
+<br/>
 <div style="margin-bottom: 16px;">
     <div style="display: flex;align-items: center;">
         <img src="https://career.habr.com/assets/defaults/companies/logo/original-c9014e94193468f9ba2e7486a49560518dedb2e14f7e9c4899778eb707cf1f07.svg" style="width: 60px;height: 60px;">
@@ -188,6 +190,7 @@ It would not be superfluous to mention my skills as a developer
     </div>
 </div>
 
+<br/>
 <div style="margin-bottom: 16px;">
     <div style="display: flex;align-items: center;">
         <img src="https://career.habr.com/assets/defaults/companies/logo/original-c9014e94193468f9ba2e7486a49560518dedb2e14f7e9c4899778eb707cf1f07.svg" style="width: 60px;height: 60px;">
@@ -198,6 +201,8 @@ It would not be superfluous to mention my skills as a developer
         </div>
     </div>
 </div>
+
+<br/>
 
 ### 📕 Higher education
 
